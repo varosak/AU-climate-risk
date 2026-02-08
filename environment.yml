@@ -1,0 +1,13 @@
+name: climate_risk
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13
+  - mamba
+  - geopandas
+  - matplotlib
+  - rasterio
+  - pandas
+  - numpy
+  - ipykernel
+  - pytest
